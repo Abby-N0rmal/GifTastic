@@ -1,0 +1,41 @@
+button, div, form, input {
+	margin: 5px;
+}
+
+img {
+	max-width: 200px;
+	max-height: 200px;
+}
+
+label {
+    color: #fff;
+}
+
+.btn-default {
+    color: #000;
+    font-size: medium;
+}
+
+body {
+	background-image: url("../images/gotone.jpg");
+    font-family: 'Cinzel Decorative', cursive;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.holder {
+    float: left;
+}
+
+#title {
+    text-align: center;
+    color: grey;
+}
+
+.container {
+    margin-top: 90px;
+    margin-left: 0%;
+    color: black;
+}
+
